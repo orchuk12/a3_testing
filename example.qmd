@@ -1,0 +1,16 @@
+---
+title: "example"
+format: html
+editor: visual
+---
+
+```{r}
+#| message: false
+#| error: false
+
+library(tidyverse)
+
+data_cars <- mtcars
+
+```
+
