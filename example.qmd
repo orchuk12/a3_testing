@@ -14,3 +14,9 @@ data_cars <- mtcars
 
 ```
 
+```{r}
+
+head(data_cars)
+
+```
+
