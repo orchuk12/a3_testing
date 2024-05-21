@@ -11,12 +11,9 @@ editor: visual
 library(tidyverse)
 
 data_cars <- mtcars
-
-```
-
-```{r}
-
 head(data_cars)
 
+
 ```
+
 
