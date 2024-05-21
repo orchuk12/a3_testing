@@ -8,8 +8,10 @@ editor: visual
 #| message: false
 #| error: false
 
+# Adding library
 library(tidyverse)
 
+# Adding dataset
 data_cars <- mtcars
 
 ```
