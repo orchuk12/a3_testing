@@ -11,6 +11,10 @@ editor: visual
 # loading libs
 library(tidyverse)
 
+
+# I think this comment here will cause a conflict in the merging
+
+
 # loading dataset
 data_cars <- mtcars
 
