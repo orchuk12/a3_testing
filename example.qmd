@@ -8,8 +8,10 @@ editor: visual
 #| message: false
 #| error: false
 
+# Loading the library
 library(tidyverse)
 
+# Loading mtcars dataset
 data_cars <- mtcars
 
 ```
